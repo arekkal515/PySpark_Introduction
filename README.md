@@ -1,8 +1,7 @@
 # PySpark Introduction
 
 ## General Information
-This repository contains notebooks based on the CodeCademy course **"Introduction to Big Data with PySpark"**.  
-The course provides a practical introduction to distributed data processing using Apache Spark and PySpark.
+This repository contains notebooks based on the CodeCademy course **"Introduction to Big Data with PySpark"** (https://www.codecademy.com/learn/big-data-pyspark). The course provides a practical introduction to distributed data processing using Apache Spark and PySpark.
 
 Covered topics:
 - Introduction to Big Data concepts
